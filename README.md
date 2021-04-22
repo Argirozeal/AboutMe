@@ -1,2 +1,6 @@
 #My name is Loong
-Food; Tomyamkoong
+
+Food: Tomyamkoong
+House: Bangkok
+Job: Engineer
+
